@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=bsky.app
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/bsky.app_quick_block.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/bsky.app_quick_block.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/bsky.app_quick_block.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/bsky.app_quick_block.user.js
 // @match       *://bsky.app/*
 // ==/UserScript==
 

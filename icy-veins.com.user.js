@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=icy-veins.com
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/icy-veins.com.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/icy-veins.com.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/icy-veins.com.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/icy-veins.com.user.js
 // @match       *://*.icy-veins.com/*
 // @match       *://icy-veins.com/*
 // ==/UserScript==

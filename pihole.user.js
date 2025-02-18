@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=pi-hole.net
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/pihole.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/pihole.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/pihole.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/pihole.user.js
 // @match       *://pihole.*/*
 // @match       *://pihole/*
 // ==/UserScript==

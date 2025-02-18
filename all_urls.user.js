@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://github.com/ktnjared/userscripts/raw/refs/heads/main/favicons/org.gnome.Epiphany.svg
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/all_urls.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/all_urls.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/all_urls.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/all_urls.user.js
 // @match       <all_urls>
 // ==/UserScript==
 

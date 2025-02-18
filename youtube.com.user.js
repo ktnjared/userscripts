@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/youtube.com.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/youtube.com.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/youtube.com.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/youtube.com.user.js
 // @match       *://*.youtube.com/*
 // @match       *://*.youtube/*
 // @match       *://youtu.be/*

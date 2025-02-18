@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=pixiv.net
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/pixiv.net.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/pixiv.net.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/pixiv.net.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/pixiv.net.user.js
 // @match       *://*.pixiv.net/*
 // @match       *://pixiv.net/*
 // ==/UserScript==

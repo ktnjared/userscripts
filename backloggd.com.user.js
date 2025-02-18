@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=backlogged.com
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/backlogged.com.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/backlogged.com.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/backlogged.com.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/backlogged.com.user.js
 // @match       *://*.backlogged.com/*
 // @match       *://backlogged.com/*
 // ==/UserScript==

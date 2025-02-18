@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=SITEDOMAIN
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/SITEDOMAIN.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/SITEDOMAIN.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/SITEDOMAIN.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/SITEDOMAIN.user.js
 // @match       *://*.SITEDOMAIN/*
 // @match       *://SITEDOMAIN/*
 // ==/UserScript==

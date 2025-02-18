@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/reddit.com.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/reddit.com.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/reddit.com.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/reddit.com.user.js
 // @match       *://*.reddit.com/*
 // @match       *://reddit.com/*
 // ==/UserScript==

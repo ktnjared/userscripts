@@ -7,8 +7,8 @@
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=bitbang.social
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/bitbang.social.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/bitbang.social.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/bitbang.social.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/bitbang.social.user.js
 // @match       *://bitbang.social/*
 // ==/UserScript==
 
