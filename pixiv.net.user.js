@@ -2,7 +2,7 @@
 // @name        (KTN) pixiv.net
 // @description (KTN) pixiv.net
 // @author      ktnjared
-// @version     yyyymmdd
+// @version     20250217
 // @run-at      document-start
 // @grant       GM_addStyle
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=pixiv.net
