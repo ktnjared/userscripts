@@ -9,8 +9,8 @@
 // @homepageURL https://github.com/ktnjared/userscripts/
 // @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/backlogged.com.user.js
 // @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/backlogged.com.user.js
-// @match       *://*.backlogged.com/*
-// @match       *://backlogged.com/*
+// @match       *://*.backloggd.com/*
+// @match       *://backloggd.com/*
 // ==/UserScript==
 
 // invert colors to generate "light mode"
