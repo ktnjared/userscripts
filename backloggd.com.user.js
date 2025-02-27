@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name        (KTN) backlogged.com
-// @description (KTN) backlogged.com
+// @name        (KTN) backloggd.com
+// @description (KTN) backloggd.com
 // @author      ktnjared
 // @version     20250217
 // @run-at      document-start
 // @grant       GM_addStyle
-// @icon        https://www.google.com/s2/favicons?sz=64&domain=backlogged.com
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=backloggd.com
 // @homepageURL https://github.com/ktnjared/userscripts/
-// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/backlogged.com.user.js
-// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/backlogged.com.user.js
+// @downloadURL https://github.com/ktnjared/userscripts/raw/refs/heads/main/backloggd.com.user.js
+// @updateURL   https://github.com/ktnjared/userscripts/raw/refs/heads/main/backloggd.com.user.js
 // @match       *://*.backloggd.com/*
 // @match       *://backloggd.com/*
 // ==/UserScript==
